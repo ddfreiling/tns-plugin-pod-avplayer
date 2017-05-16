@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "nativescript-theme-core": "^1.0.2",
-    "nativescript-unit-test-runner": "^0.3.4",
     "nativescript-tns-plugin-pod-avplayer": "file:///Users/dfg/Code/tns-pod-avplayer",
+    "nativescript-unit-test-runner": "^0.3.4",
     "tns-core-modules": "~2.5.2"
   },
   "devDependencies": {
